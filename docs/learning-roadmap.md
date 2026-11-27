@@ -1,15 +1,10 @@
 # MiniGPT – Complete Learning Roadmap
 
 ## Project Goal
-
 To understand the internal working of Large Language Models (LLMs) and build a small GPT-style language model from scratch using Python and PyTorch.
-
 The project focuses on understanding the mathematics, architecture, training process, and text generation techniques behind GPT models.
-
 ---
-
 ## Phase 1: Artificial Intelligence Fundamentals
-
 - Introduction to Artificial Intelligence
 - Types of AI
 - Machine Learning
@@ -22,7 +17,6 @@ The project focuses on understanding the mathematics, architecture, training pro
 - Introduction to GPT
 
 ## Phase 2: Mathematical Foundations
-
 - Scalars, Vectors and Matrices
 - Tensors
 - Matrix Operations
@@ -36,7 +30,6 @@ The project focuses on understanding the mathematics, architecture, training pro
 - Backpropagation
 
 ## Phase 3: Python and Deep Learning
-
 - Python Fundamentals
 - NumPy
 - PyTorch Fundamentals
@@ -48,7 +41,6 @@ The project focuses on understanding the mathematics, architecture, training pro
 - CPU vs GPU
 
 ## Phase 4: Language Model Fundamentals
-
 - How Computers Process Text
 - Tokenization
 - Character-Level Tokenization
@@ -61,7 +53,6 @@ The project focuses on understanding the mathematics, architecture, training pro
 - Next-Token Prediction
 
 ## Phase 5: Transformer Architecture
-
 - Introduction to Transformers
 - Encoder and Decoder Architecture
 - Decoder-Only Transformers
@@ -78,7 +69,6 @@ The project focuses on understanding the mathematics, architecture, training pro
 - Softmax and Probability Distribution
 
 ## Phase 6: GPT Architecture
-
 - GPT Architecture Overview
 - Token and Positional Embeddings
 - Transformer Decoder Blocks
@@ -104,7 +94,6 @@ The project focuses on understanding the mathematics, architecture, training pro
 - Checkpoint Saving
 
 ## Phase 8: Text Generation
-
 - Model Inference
 - Autoregressive Generation
 - Temperature Sampling
@@ -114,7 +103,6 @@ The project focuses on understanding the mathematics, architecture, training pro
 - Text Generation Evaluation
 
 ## Phase 9: MiniGPT Implementation
-
 - Build a Custom Tokenizer
 - Implement Token Embeddings
 - Implement Positional Embeddings
@@ -127,7 +115,6 @@ The project focuses on understanding the mathematics, architecture, training pro
 - Generate Text
 
 ## Phase 10: Advanced Improvements
-
 - Experiment with Different Model Sizes
 - Experiment with Different Datasets
 - Training Optimization
@@ -139,20 +126,14 @@ The project focuses on understanding the mathematics, architecture, training pro
 ---
 
 ## Datasets
-
 ### 1. Tiny Shakespeare
 Purpose: Initial language model training and character-level text generation.
-
 ### 2. TinyStories
 Purpose: Experimenting with short-story generation.
-
 ### 3. WikiText-2
 Purpose: Experimenting with general language modelling.
-
 ---
-
 ## Technology Stack
-
 - Python
 - PyTorch
 - NumPy
