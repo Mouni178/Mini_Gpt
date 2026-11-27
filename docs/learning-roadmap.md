@@ -126,13 +126,36 @@ The project focuses on understanding the mathematics, architecture, training pro
 ---
 
 ## Datasets
-### 1. Tiny Shakespeare
-Purpose: Initial language model training and character-level text generation.
-### 2. TinyStories
-Purpose: Experimenting with short-story generation.
-### 3. WikiText-2
-Purpose: Experimenting with general language modelling.
+
+### Currently Available
+
+**1. Tiny Shakespeare**
+- Status: Downloaded
+- Purpose: Initial GPT training.
+- Usage: Character-level tokenization and next-token prediction.
+
+### Planned Datasets
+
+**2. TinyStories**
+- Status: Planned
+- Purpose: Experimenting with short-story generation.
+- Usage: Training and evaluating text generation.
+
+**3. WikiText-2**
+- Status: Planned
+- Purpose: General language modelling experiments.
+- Usage: Testing language modelling on Wikipedia articles.
+
 ---
+
+## Dataset Progress
+
+| Dataset | Status |
+|---|---|
+| Tiny Shakespeare | Downloaded |
+| TinyStories | Not Downloaded |
+| WikiText-2 | Not Downloaded |
+| Custom Dataset | Future Experiment |
 ## Technology Stack
 - Python
 - PyTorch
